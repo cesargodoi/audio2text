@@ -176,3 +176,7 @@ cython_debug/
 # uv
 uv.lock
 pyproject.toml
+
+# audios and texts
+audios/*
+texts/*
